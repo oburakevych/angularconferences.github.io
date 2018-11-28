@@ -225,6 +225,21 @@
         "twitter": "ngTalks_ua"
       }
     },
+  {
+      "metadata": {
+        "country_code": "AU",
+        "location": "Melbourne",
+        "title": "ComponentsConf",
+        "date": "6",
+        "logo": "",
+        "type": "conference",
+        "desc": "ComponentsConf is the first Australian conference for front-end and full-stack developers with exclusive focus on JavaScript frameworks where world-class experts share unique insights. The conference is featuring multiple tracks where our speakers would share their knowledge and expertise not only in established technologies like React, Angular and Vue, but also in emerging cutting-edge mobile and web tech stacks."
+      },
+      "links": {
+        "web": "https://www.componentsconf.com.au/",
+        "twitter": "componentsConf"
+      }
+    },
   ],
   "October": [],
   "November": [],
